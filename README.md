@@ -1,5 +1,13 @@
 # Redux Take Home Challenge
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+### `npm start`
+
 Implement an interactive phone call scheduler using React and Redux: 
 
 - There should be several 1 hour time slots in a given day between 9 and 5.
